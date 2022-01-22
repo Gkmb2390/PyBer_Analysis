@@ -75,9 +75,10 @@
     
     Using our latest data base as the major component of the ax.plot(x,y) function, allowing the fucntion to determine the x & y componenets automatically.  Then I provided the city types listed as labels to match the data being imported from our latest dataframe. 
 
-    Finally, I created the y_axis label, the Title of the chart, added a legend, and included the plt.show() function to ensure the chart was being created.  Having made several attempts at generating the chart, I found that I could not replicate that of the chart in the modeule 5 outline. 
+    Finally, I created the y_axis label, the Title of the chart, added a legend, and included the plt.show() function to ensure the chart was being created. Ultimately I found that I needed to change my coding from the ax = plt.subolts model to pull directly from the new dataframe using the code imaged below.
 
-    IMAGE DELIVERABLE 9
+![Image 2.9](https://github.com/Gkmb2390/PyBer_Analysis/blob/main/Resources/Deliverable2.9.png)
+
 
 # Summary of Analysis & Next Steps.
 
